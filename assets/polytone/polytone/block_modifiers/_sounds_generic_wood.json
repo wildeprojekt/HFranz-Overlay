@@ -1,0 +1,32 @@
+{
+  "targets": [
+    "conquest:old_green_pipe",
+    "conquest:old_black_pipe",
+    "conquest:old_brown_pipe",
+    "conquest:brown_5_way_flange",
+    "conquest:brown_pipe",
+    "conquest:old_yellow_pipe",
+    "conquest:yellow_pipe",
+    "conquest:old_brown_5_way_flange",
+    "conquest:old_black_mounted_pipe",
+    "conquest:old_black_5_way_flange",
+    "conquest:black_5_way_flange",
+    "conquest:black_cross_flange",
+    "conquest:old_black_cross_flange",
+    "conquest:old_brown_gate_valve",
+    "conquest:old_blue_gate_valve",
+    "conquest:old_gate_valve",
+    "conquest:red_gate_valve",
+    "conquest:old_red_gate_valve",
+    "conquest:wood_plate",
+    "create:turntable",
+    "create:brown_valve_handle",
+    "create:train_door",
+    "create:framed_glass_trapdoor",
+    "conquest:hanging_oil_lamp",
+    "conquest:soda_bottle",
+    "conquest:pot_of_water",
+    "conquest:old_black_t_flange"
+  ],
+  "sound_type": "wood"
+}

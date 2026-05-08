@@ -1,0 +1,12 @@
+{
+  "targets": [
+    "minecraft:rail",
+    "minecraft:detector_rail",
+    "minecraft:activator_rail",
+    "conquest:candle_in_a_lantern",
+    "conquest:hanging_candle_holder",
+    "conquest:victorian_lantern",
+    "conquest:small_hanging_cauldron"
+  ],
+  "sound_type": "lantern"
+}

@@ -1,0 +1,39 @@
+{
+  "targets": [
+    "conquest:old_wicker_fence",
+    "conquest:old_wicker_fence_half",
+    "conquest:old_wicker_fence_half_thin_vertical_corner",
+    "conquest:old_wicker_fence_half_thin_vertical_quarter",
+    "conquest:old_wicker_fence_half_thin_vertical_slab",
+    "conquest:old_wicker_fence_thin_vertical_corner",
+    "conquest:old_wicker_fence_thin_vertical_quarter",
+    "conquest:old_wicker_fence_thin_vertical_slab",
+    "conquest:straight_old_wicker_fence",
+    "conquest:straight_old_wicker_fence_half",
+    "conquest:straight_wicker_fence",
+    "conquest:straight_wicker_fence_half",
+    "conquest:wicker_fence",
+    "conquest:wicker_fence_half",
+    "conquest:wicker_fence_half_thin_vertical_corner",
+    "conquest:wicker_fence_half_thin_vertical_quarter",
+    "conquest:wicker_fence_half_thin_vertical_slab",
+    "conquest:wicker_fence_thin_vertical_corner",
+    "conquest:wicker_fence_thin_vertical_quarter",
+    "conquest:wicker_fence_thin_vertical_slab",
+    "minecraft:bamboo_fence_gate",
+    "minecraft:mangrove_fence_gate",
+    "create:crimson_window_pane",
+    "create:warped_window_pane",
+    "create:acacia_window_pane",
+    "create:birch_window_pane",
+    "minecraft:acacia_door"
+  ],
+  "block_set_type": "bamboo",
+  "sound_type": {
+    "break_sound": "block.bamboo_wood.break",
+    "place_sound": "block.bamboo_wood.place",
+    "hit_sound": "block.bamboo_wood.hit",
+    "fall_sound": "block.bamboo_wood.fall",
+    "step_sound": "block.bamboo_wood.step"
+  }
+}

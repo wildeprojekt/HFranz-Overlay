@@ -1,0 +1,31 @@
+{
+    "targets": [
+        "architects:horizontal_oak_beam",
+        "architects:horizontal_spruce_beam",
+        "architects:horizontal_birch_beam",
+        "architects:horizontal_jungle_beam",
+        "architects:horizontal_acacia_beam",
+        "architects:horizontal_dark_oak_beam",
+        "architects:horizontal_cherry_beam",
+        "architects:horizontal_mangrove_beam",
+        "architects:horizontal_bamboo_beam",
+        "conquest:weathered_light_red_painted_plank_boards",
+        "conquest:weathered_orange_painted_plank_boards",
+        "conquest:weathered_green_painted_plank_boards",
+        "conquest:weathered_yellow_painted_plank_boards",
+        "conquest:weathered_light_green_painted_plank_boards",
+        "conquest:weathered_blue_painted_plank_boards",
+        "conquest:weathered_dark_blue_painted_plank_boards",
+        "conquest:weathered_purple_painted_plank_boards",
+        "conquest:weathered_cyan_painted_plank_boards",
+        "conquest:blue_pipe",
+        "minecraft:soul_campfire"
+    ],
+    "tooltips": [
+        {
+            "italic": false,
+            "color": "gold",
+            "text": "Rotational Variants (Place Facing NESW)"
+        }
+    ]
+}

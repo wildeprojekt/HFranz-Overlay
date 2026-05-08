@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "conquest:empty_wooden_round_barrel",
+    "conquest:wooden_round_barrel",
+    "conquest:empty_round_barrel",
+    "conquest:round_barrel",
+    "conquest:rusty_round_barrel",
+    "conquest:empty_rusty_round_barrel",
+    "conquest:broken_rusty_round_barrel",
+    "conquest:barrel_of_wine",
+    "conquest:tall_barrel",
+    "conquest:carpenters_chest",
+    "conquest:rounded_chest",
+    "conquest:old_blue_elbow_flange",
+    "conquest:black_elbow_flange",
+    "conquest:butter_churn",
+    "conquest:wooden_washing_tub",
+    "conquest:empty_bucket"
+  ],
+  "sound_type": {
+    "break_sound": "block.bamboo_wood.break",
+    "place_sound": "block.bamboo_wood.place",
+    "hit_sound": "block.bamboo_wood.hit",
+    "fall_sound": "block.bamboo_wood.fall",
+    "step_sound": "block.bamboo_wood.step",
+    "pitch": 0.75
+  }
+}

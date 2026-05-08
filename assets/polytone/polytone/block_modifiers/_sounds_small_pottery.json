@@ -1,0 +1,19 @@
+{
+  "targets": [
+    "conquest:terracotta_oil_lamp",
+    "conquest:hells_eye",
+    "conquest:ceramic_plate",
+    "conquest:porcelain_plate",
+    "minecraft:flower_pot",
+    "conquest:honey_pot"
+  ],
+  "sound_type": {
+    "break_sound": "block.decorated_pot.shatter",
+    "place_sound": "block.decorated_pot.place",
+    "hit_sound": "block.decorated_pot.shatter",
+    "fall_sound": "block.decorated_pot.step",
+    "step_sound": "block.decorated_pot.step",
+    "pitch": 1.1,
+    "volume": 0.5
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "targets": [
+        "hearthfire:rustic_pine_bench",
+        "hearthfire:carpentry_table",
+        "conquest:fancy_wooden_desk",
+        "conquest:oak_wood_desk"
+    ],
+    "tooltips": [
+        {
+            "italic": false,
+            "color": "gold",
+            "text": "Connects Horizontally"
+        }
+    ]
+}

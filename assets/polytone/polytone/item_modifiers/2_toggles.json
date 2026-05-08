@@ -1,0 +1,22 @@
+{
+    "targets": [
+        "conquest:brown_cross_flange",
+        "conquest:old_brown_cross_flange",
+        "conquest:old_blue_pipe",
+        "conquest:black_cross_flange",
+        "conquest:old_black_cross_flange",
+        "conquest:old_green_pipe",
+        "conquest:old_black_pipe",
+        "conquest:blue_pipe"
+    ],
+    "tooltips": [
+        {
+            "italic": false,
+            "color": "gold",
+            "text": "2 Toggleable Variants (Right-Click)"
+        }
+    ],
+    "remove_tooltips": [
+        "minecraft\\:"
+    ]
+}

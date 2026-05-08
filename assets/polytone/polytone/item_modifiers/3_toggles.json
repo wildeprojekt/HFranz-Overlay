@@ -1,0 +1,17 @@
+{
+    "targets": [
+        "conquest:black_elbow_flange",
+        "conquest:green_4_way_flange",
+        "conquest:old_blue_elbow_flange"
+    ],
+    "tooltips": [
+        {
+            "italic": false,
+            "color": "gold",
+            "text": "3 Toggleable Variants (Right-Click)"
+        }
+    ],
+    "remove_tooltips": [
+        "minecraft\\:"
+    ]
+}

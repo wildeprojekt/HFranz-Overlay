@@ -1,0 +1,14 @@
+{
+    "targets": [
+        "conquest:dark_spruce_needles",
+        "conquest:spruce_leaf_slab",
+        "conquest:spruce_leaf_branch",
+        "conquest:spruce_leaf_long_branch",
+        "conquest:spruce_leaf_top"
+    ],
+    "colormap": {
+        "x_axis": "biome_id",
+        "y_axis": "(POS_Y + 64 + 4 * (rand() - 0.5)) / 512",
+        "biome_id_mapper": "polytone:ardabiomes"
+    }
+}
