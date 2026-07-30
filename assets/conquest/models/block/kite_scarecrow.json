@@ -1,0 +1,10 @@
+{
+	"loader": "porting_lib:obj",
+	"model": "conquest:models/obj/kite_scarecrow.obj",
+	"emissive_ambient": true,
+	"parent": "block/block",
+	"flip_v": true,
+	"textures": {
+		"particle": "conquest:block/kite_scarecrow"
+	}
+}

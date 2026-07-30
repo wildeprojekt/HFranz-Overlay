@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "flower_amount=1": {
+      "model": "conquest:block/kite_scarecrow", "y": 10, "x": 1, "z": 2
+    },
+    "flower_amount=2": {
+      "model": "conquest:block/kite_scarecrow", "y": 95, "x": 1, "z": 3
+    },
+    "flower_amount=3": {
+      "model": "conquest:block/kite_scarecrow", "y": 165, "x": 2
+    },
+    "flower_amount=4": {
+      "model": "conquest:block/kite_scarecrow", "y": 260, "x": 1, "z": 3
+    }
+  }
+}
