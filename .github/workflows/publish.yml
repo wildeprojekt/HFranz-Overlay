@@ -20,7 +20,7 @@ jobs:
         git push origin $TIME
         echo "::set-output name=tag_name::$TIME"
 
-    - name: Publish server resource pack
+    - name: Publish HFranz Overlay
       id: create_release
       uses: actions/create-release@v1
       env:
@@ -29,11 +29,11 @@ jobs:
         tag_name: ${{ steps.create_tag.outputs.tag_name }}
         release_name: HFranz Overlay ${{steps.create_tag.outputs.tag_name }}
         body: |
-          Publish server resource pack
+          Publish HFranz Overlay
         draft: false
         prerelease: false
 
-    - name: Upload server resource pack
+    - name: Upload HFranz Overlay
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
