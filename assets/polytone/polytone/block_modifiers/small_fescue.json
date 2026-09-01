@@ -1,6 +1,7 @@
 {
     "targets": [
-        "conquest:small_fescue"
+        "conquest:small_fescue",
+        "conquest:timothy_grass"
     ],
     "colormap": {
         "x_axis": "biome_id",
