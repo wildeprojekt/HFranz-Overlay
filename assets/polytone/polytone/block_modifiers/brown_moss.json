@@ -1,0 +1,15 @@
+{
+    "targets": [
+        "conquest:brown_moss",
+        "conquest:brown_moss_corner_slab",
+        "conquest:brown_moss_eighth_slab",
+        "conquest:brown_moss_quarter_slab",
+        "conquest:brown_moss_slab",
+        "conquest:brown_moss_stairs",
+        "conquest:brown_moss_vertical_corner",
+        "conquest:brown_moss_vertical_corner_slab",
+        "conquest:brown_moss_vertical_quarter",
+        "conquest:brown_moss_vertical_slab"
+    ],
+    "colormap": "polytone:brown_moss"
+}

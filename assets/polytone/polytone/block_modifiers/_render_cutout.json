@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "conquest:green_5_way_flange",
+    "conquest:black_t_flange",
+    "conquest:green_4_way_flange"
+  ],
+  "render_type": "cutout"
+}

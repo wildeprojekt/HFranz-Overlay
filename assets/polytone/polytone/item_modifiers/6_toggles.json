@@ -1,0 +1,26 @@
+{
+    "targets": [
+        "conquest:clay_brick_facade_round_arch",
+        "conquest:clay_brick_facade_segmental_arch",
+        "conquest:lime_mortar_clay_brick_facade_round_arch",
+        "conquest:lime_mortar_clay_brick_facade_segmental_arch",
+        "conquest:lime_mortar_orange_clay_brick_facade_round_arch",
+        "conquest:lime_mortar_orange_clay_brick_facade_segmental_arch",
+        "conquest:lime_mortar_red_clay_brick_facade_round_arch",
+        "conquest:lime_mortar_red_clay_brick_facade_segmental_arch",
+        "conquest:red_clay_brick_facade_round_arch",
+        "conquest:red_clay_brick_facade_segmental_arch",
+        "conquest:roman_orange_clay_brick_facade_round_arch",
+        "conquest:roman_orange_clay_brick_facade_segmental_arch"
+    ],
+    "tooltips": [
+        {
+            "italic": false,
+            "color": "gold",
+            "text": "6 Toggleable Variants (Right-Click)"
+        }
+    ],
+    "remove_tooltips": [
+        "minecraft\\:"
+    ]
+}

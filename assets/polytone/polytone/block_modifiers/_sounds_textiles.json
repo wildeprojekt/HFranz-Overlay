@@ -1,0 +1,16 @@
+{
+  "targets": [
+    "conquest:black_canvas",
+    "conquest:black_canvas_corner_slab",
+    "conquest:black_canvas_cover",
+    "conquest:black_canvas_eighth_slab",
+    "conquest:black_canvas_quarter_slab",
+    "conquest:black_canvas_slab",
+    "conquest:black_canvas_stairs",
+    "conquest:black_canvas_vertical_corner",
+    "conquest:black_canvas_vertical_corner_slab",
+    "conquest:black_canvas_vertical_quarter",
+    "conquest:black_canvas_vertical_slab"
+  ],
+  "sound_type": "wool"
+}

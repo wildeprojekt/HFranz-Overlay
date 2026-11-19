@@ -1,0 +1,11 @@
+{
+    "targets": [
+        "conquest:pine_needles_clump",
+        "conquest:pine_ground_needles"
+    ],
+    "offset_type": {
+        "max_x": 0.25,
+        "max_y": 0.125,
+        "max_z": 0.25
+    }
+}

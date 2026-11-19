@@ -1,0 +1,10 @@
+{
+    "targets": [
+        "conquest:autumnal_dwarf_birch"
+    ],
+    "colormap": {
+        "x_axis": "biome_id",
+        "y_axis": "(POS_Y + 64 + 4 * (rand() - 0.5)) / 512",
+        "biome_id_mapper": "polytone:ardabiomes"
+    }
+}

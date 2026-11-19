@@ -1,0 +1,38 @@
+{
+    "targets": [
+        "conquest:diagonal_mossy_spruce_branch_22",
+        "conquest:diagonal_mossy_spruce_branch_22_corner",
+        "conquest:diagonal_mossy_spruce_branch_45",
+        "conquest:diagonal_mossy_spruce_branch_45_connector",
+        "conquest:diagonal_mossy_spruce_branch_45_corner",
+        "conquest:diagonal_mossy_spruce_branch_67",
+        "conquest:diagonal_mossy_spruce_branch_67_corner",
+        "conquest:mossy_spruce_branch_flat",
+        "conquest:mossy_spruce_branch_tip",
+        "conquest:mossy_spruce_branch_tip_2",
+        "conquest:mossy_spruce_branch_tip_2_45",
+        "conquest:mossy_spruce_branch_tip_45",
+        "conquest:thick_diagonal_mossy_spruce_branch_22",
+        "conquest:thick_diagonal_mossy_spruce_branch_22_corner",
+        "conquest:thick_diagonal_mossy_spruce_branch_45",
+        "conquest:thick_diagonal_mossy_spruce_branch_45_connector",
+        "conquest:thick_diagonal_mossy_spruce_branch_45_corner",
+        "conquest:thick_diagonal_mossy_spruce_branch_67",
+        "conquest:thick_diagonal_mossy_spruce_branch_67_corner",
+        "conquest:thick_mossy_spruce_branch_flat",
+        "conquest:thin_diagonal_mossy_spruce_branch_45",
+        "conquest:thin_diagonal_mossy_spruce_branch_45_corner",
+        "conquest:thin_diagonal_mossy_spruce_branch_67",
+        "conquest:thin_diagonal_mossy_spruce_branch_67_corner",
+        "conquest:thin_diagonal_mossy_spruce_branch_75",
+        "conquest:thin_diagonal_mossy_spruce_branch_75_corner",
+        "conquest:thin_diagonal_mossy_spruce_branch_78",
+        "conquest:thin_diagonal_mossy_spruce_branch_78_corner",
+        "conquest:thin_diagonal_mossy_spruce_branch_81",
+        "conquest:thin_diagonal_mossy_spruce_branch_81_corner"
+    ],
+    "colormap": {
+        "0": "polytone:mossy_branch_moss",
+        "1": "polytone:mossy_branch_bark_spruce"
+    }
+}

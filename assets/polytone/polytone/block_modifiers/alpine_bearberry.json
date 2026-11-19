@@ -1,0 +1,6 @@
+{
+    "targets": [
+        "conquest:alpine_bearberry"
+    ],
+    "colormap": "polytone:alpine_bearberry"
+}

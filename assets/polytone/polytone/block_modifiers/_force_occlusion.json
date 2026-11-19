@@ -1,0 +1,7 @@
+{
+  "targets": [
+    "create:experience_block",
+    "minecraft:beacon"
+  ],
+  "can_occlude": true
+}

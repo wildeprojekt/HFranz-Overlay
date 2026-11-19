@@ -1,0 +1,28 @@
+{
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#grass"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 12],
+			"to": [16, 16, 16],
+			"shade": false,
+			"faces": {
+				"north": {"texture": "#grass", "tintindex": 0},
+				"east": {"texture": "#grass", "tintindex": 0},
+				"south": {"texture": "#grass", "tintindex": 0},
+				"west": {"texture": "#grass", "tintindex": 0},
+				"up": {"texture": "#grass", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, 0, 12],
+			"to": [16, 0, 16],
+			"faces": {
+				"down": {"texture": "#bottom"}
+			}
+		}
+	]
+}

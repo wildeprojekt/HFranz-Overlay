@@ -1,0 +1,24 @@
+{
+    "targets": [
+        "conquest:ash_tree_leaves",
+        
+        "conquest:ash_tree_ground_leaves",
+        "conquest:ash_branches_clump",
+        "conquest:ash_vertical_branches",
+        "conquest:ash_straight_branches",
+        "conquest:ash_branches_edge",
+        "conquest:ash_downward_branches",
+        "conquest:ash_upward_branches",
+        "conquest:ash_upward_tip",
+        "conquest:diagonal_ash_straight_branches",
+        "conquest:diagonal_ash_branches_edge",
+        "conquest:diagonal_ash_downward_branches",
+        "conquest:diagonal_ash_upward_branches",
+        "conquest:diagonal_ash_upward_tip"
+    ],
+    "colormap": {
+        "x_axis": "biome_id",
+        "y_axis": "(POS_Y + 64 + 4 * (rand() - 0.5)) / 512",
+        "biome_id_mapper": "polytone:ardabiomes"
+    }
+}

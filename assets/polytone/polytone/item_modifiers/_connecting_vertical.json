@@ -1,0 +1,10 @@
+{
+    "targets": [],
+    "tooltips": [
+        {
+            "italic": false,
+            "color": "gold",
+            "text": "Connects Vertically"
+        }
+    ]
+}

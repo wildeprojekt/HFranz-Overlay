@@ -1,0 +1,25 @@
+{
+    "targets": [
+        "minecraft:birch_leaves",
+        "conquest:birch_ground_leaves",
+        "conquest:birch_straight_branches",
+        "conquest:birch_upward_tip",
+        "conquest:birch_downward_branches",
+        "conquest:birch_upward_branches",
+        "conquest:birch_branches_edge",
+        "conquest:diagonal_birch_straight_branches",
+        "conquest:diagonal_birch_upward_tip",
+        "conquest:diagonal_birch_downward_branches",
+        "conquest:diagonal_birch_upward_branches",
+        "conquest:diagonal_birch_branches_edge",
+        "conquest:downy_birch_branches",
+        "conquest:birch_vertical_branches",
+        "conquest:birch_branches_clump"
+
+    ],
+    "colormap": {
+        "x_axis": "biome_id",
+        "y_axis": "(POS_Y + 64 + 4 * (rand() - 0.5)) / 512",
+        "biome_id_mapper": "polytone:ardabiomes"
+    }
+}

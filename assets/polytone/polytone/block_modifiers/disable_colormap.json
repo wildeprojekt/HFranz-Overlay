@@ -1,0 +1,11 @@
+{
+    "targets": [
+        "conquest:pine_needles",
+        "conquest:pine_ground_needles"
+    ],
+    "colormap": {
+        "x_axis": "biome_id",
+        "y_axis": "0",
+        "biome_id_mapper": "polytone:ardabiomes"
+    }
+}

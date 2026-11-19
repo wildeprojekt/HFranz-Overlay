@@ -1,0 +1,7 @@
+{
+    "parent": "conquest:block/templates/no_shade/grass/parent_slab_bottom_3",
+    "textures": {
+		"grass": "minecraft:block/grass_block_top",
+		"bottom": "block/dirt"
+    }
+}

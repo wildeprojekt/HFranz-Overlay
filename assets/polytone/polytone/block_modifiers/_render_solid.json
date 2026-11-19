@@ -1,0 +1,14 @@
+{
+  "targets": [
+    "minecraft:beacon",
+    "conquest:black_stained_glass_stairs",
+    "conquest:simple_yellow_wooden_frame_window_stairs",
+    "conquest:straight_glass_2_stairs",
+    "conquest:light_gray_stained_glass_stairs",
+    "conquest:simple_white_wooden_frame_window_stairs",
+    "conquest:simple_green_wooden_frame_window_stairs",
+    "conquest:straight_glass_1_stairs",
+    "conquest:gray_stained_glass_stairs"
+  ],
+  "render_type": "solid"
+}

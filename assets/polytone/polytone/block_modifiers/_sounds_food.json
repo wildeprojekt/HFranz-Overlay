@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "conquest:hanging_beef_shank",
+    "conquest:hanging_fish",
+    "conquest:hanging_mentula_fish",
+    "conquest:cheese_wheel",
+    "conquest:white_hanging_rabbit",
+    "conquest:brown_hanging_rabbit",
+    "conquest:hanging_rabbit",
+    "conquest:hanging_salami",
+    "conquest:hanging_sausages",
+    "conquest:sausages_on_hooks",
+    "conquest:apples",
+    "conquest:big_bread",
+    "conquest:cut_cheese",
+    "conquest:bread_plate",
+    "conquest:hanging_sockeye_salmon",
+    "conquest:pig_on_a_spit"
+  ],
+  "sound_type": {
+    "break_sound": "block.candle.break",
+    "place_sound": "block.candle.place",
+    "hit_sound": "block.candle.hit",
+    "fall_sound": "block.candle.fall",
+    "step_sound": "block.candle.step",
+    "pitch": 0.8
+  }
+}
