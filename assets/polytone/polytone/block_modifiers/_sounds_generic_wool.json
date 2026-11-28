@@ -1,8 +1,0 @@
-{
-  "targets": [
-    "minecraft:dead_bubble_coral_fan",
-    "minecraft:purple_stained_glass_pane",
-    "conquest:wall_of_rope_pane"
-  ],
-  "sound_type": "wool"
-}
